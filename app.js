@@ -25,3 +25,4 @@ all.forEach((button) => {
     }
   });
 });
+//if a number is added to the output with no operators the number will be missed
