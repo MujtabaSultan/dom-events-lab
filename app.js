@@ -20,5 +20,8 @@ all.forEach((button) => {
         document.querySelector(".display").textContent
       );
     }
+    if (number == "C") {
+      document.querySelector(".display").textContent = "";
+    }
   });
 });
